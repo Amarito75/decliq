@@ -1,0 +1,49 @@
+[
+  {
+    "id": "NDF-001",
+    "salarie": "Karim Benzarti",
+    "date": "2026-02-24",
+    "type": "Carburant",
+    "montant_ttc": 85.40,
+    "tva": 14.23,
+    "fournisseur": "TotalEnergies Villeurbanne",
+    "justificatif": true,
+    "statut": "À traiter"
+  },
+  {
+    "id": "NDF-002",
+    "salarie": "Marc Durand",
+    "date": "2026-02-26",
+    "type": "Restaurant",
+    "montant_ttc": 62.50,
+    "tva": 6.25,
+    "fournisseur": "Brasserie Georges, Lyon 2",
+    "convives": 2,
+    "motif": "Déjeuner client Philippe Garnier (SCI Les Tilleuls)",
+    "justificatif": true,
+    "statut": "À traiter",
+    "alerte": "Montant > plafond 25€/personne"
+  },
+  {
+    "id": "NDF-003",
+    "salarie": "Lucas Moreau",
+    "date": "2026-02-20",
+    "type": "Péage",
+    "montant_ttc": 12.80,
+    "fournisseur": "APRR A43",
+    "justificatif": false,
+    "statut": "Incomplet — justificatif manquant"
+  },
+  {
+    "id": "NDF-004",
+    "salarie": "Karim Benzarti",
+    "date": "2026-02-25",
+    "type": "Fournitures",
+    "montant_ttc": 34.90,
+    "tva": 5.82,
+    "fournisseur": "Leroy Merlin",
+    "description": "Mètre laser + gants chantier",
+    "justificatif": true,
+    "statut": "À traiter"
+  }
+]

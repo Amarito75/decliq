@@ -1,0 +1,72 @@
+[
+  {
+    "numero": "FAC-2025-089",
+    "client": "CLI-003",
+    "client_nom": "Restaurant Le Bouchon Doré",
+    "date": "2025-11-15",
+    "echeance": "2025-12-15",
+    "montant_ht": 15416.67,
+    "tva": 3083.33,
+    "montant_ttc": 18500.00,
+    "statut": "Impayé",
+    "relances": [
+      {"date": "2025-12-20", "type": "email", "reponse": "Aucune"},
+      {"date": "2026-01-10", "type": "email+tel", "reponse": "Promet paiement fin janvier"},
+      {"date": "2026-02-05", "type": "courrier AR", "reponse": "Aucune"}
+    ]
+  },
+  {
+    "numero": "FAC-2026-008",
+    "client": "CLI-008",
+    "client_nom": "Boulangerie Maison Blanc",
+    "date": "2026-01-20",
+    "echeance": "2026-02-20",
+    "montant_ht": 8166.67,
+    "tva": 1633.33,
+    "montant_ttc": 9800.00,
+    "statut": "Payé",
+    "date_paiement": "2026-02-18"
+  },
+  {
+    "numero": "FAC-2026-012",
+    "client": "CLI-007",
+    "client_nom": "Pierre Vallette",
+    "date": "2026-01-15",
+    "echeance": "2026-02-01",
+    "montant_ht": 3500.00,
+    "tva": 700.00,
+    "montant_ttc": 4200.00,
+    "acompte": 2100.00,
+    "reste_du": 2100.00,
+    "statut": "Partiellement payé",
+    "relances": [
+      {"date": "2026-02-05", "type": "email", "reponse": "Attend remboursement assurance"},
+      {"date": "2026-02-20", "type": "tel", "reponse": "Promet paiement mars"}
+    ]
+  },
+  {
+    "numero": "FAC-2026-015",
+    "client": "CLI-001",
+    "client_nom": "Famille Lefebvre",
+    "date": "2026-02-25",
+    "echeance": "2026-03-25",
+    "montant_ht": 9500.00,
+    "tva": 1900.00,
+    "montant_ttc": 11400.00,
+    "statut": "En attente",
+    "notes": "Acompte 40% pour démarrage chantier extension véranda"
+  },
+  {
+    "numero": "FAC-2025-072",
+    "client": "CLI-002",
+    "client_nom": "SCI Les Tilleuls",
+    "date": "2025-09-30",
+    "echeance": "2025-10-30",
+    "montant_ht": 22000.00,
+    "tva": 4400.00,
+    "montant_ttc": 26400.00,
+    "statut": "Payé",
+    "date_paiement": "2025-10-25",
+    "notes": "1er acompte ravalement — payé en avance"
+  }
+]

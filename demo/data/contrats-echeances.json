@@ -1,0 +1,61 @@
+[
+  {
+    "type": "Assurance décennale",
+    "assureur": "SMABTP",
+    "numero": "DEC-2024-78456",
+    "echeance": "2026-04-01",
+    "montant_annuel": 4200,
+    "preavis_resiliation": "2 mois",
+    "statut": "À renouveler",
+    "alerte": "Renouvellement dans 32 jours"
+  },
+  {
+    "type": "Assurance RC Pro",
+    "assureur": "SMABTP",
+    "numero": "RCP-2024-78457",
+    "echeance": "2026-04-01",
+    "montant_annuel": 1800,
+    "statut": "À renouveler"
+  },
+  {
+    "type": "Bail local (atelier/stockage)",
+    "bailleur": "SCI Roche Immobilier",
+    "adresse": "Zone artisanale des Bruyères, 69007 Lyon",
+    "echeance": "2026-09-30",
+    "loyer_mensuel": 1200,
+    "preavis": "6 mois",
+    "statut": "OK — préavis si résiliation avant 31/03/2026"
+  },
+  {
+    "type": "Contrat maintenance véhicules",
+    "prestataire": "Renault Pro+ Vénissieux",
+    "vehicules": ["Renault Master (immat: FG-234-HK)", "Renault Kangoo (immat: EJ-567-LP)"],
+    "echeance": "2026-06-15",
+    "montant_annuel": 2800,
+    "statut": "OK"
+  },
+  {
+    "type": "Licence logiciel Batigest",
+    "editeur": "Sage",
+    "echeance": "2026-03-15",
+    "montant_annuel": 960,
+    "statut": "Renouvellement dans 15 jours",
+    "notes": "Marc hésite à renouveler, trouve le logiciel compliqué"
+  },
+  {
+    "type": "Certificat SSL site web",
+    "fournisseur": "Let's Encrypt",
+    "domaine": "durand-fils-artisans.fr",
+    "echeance": "2025-08-20",
+    "statut": "EXPIRÉ depuis 6 mois",
+    "impact": "Site affiché comme 'Non sécurisé'"
+  },
+  {
+    "type": "Nom de domaine",
+    "registrar": "OVH",
+    "domaine": "durand-fils-artisans.fr",
+    "echeance": "2026-05-12",
+    "montant_annuel": 12,
+    "statut": "OK"
+  }
+]

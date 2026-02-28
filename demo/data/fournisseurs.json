@@ -1,0 +1,57 @@
+[
+  {
+    "id": "FRN-001",
+    "nom": "Point P Lyon",
+    "contact": "Stéphane Roche",
+    "email": "s.roche@pointp.fr",
+    "tel": "04 72 00 33 44",
+    "categorie": "Matériaux gros œuvre",
+    "conditions": "30 jours fin de mois",
+    "score_fiabilite": 8,
+    "notes": "Fournisseur principal. Livraison fiable. Remise 12% négociée."
+  },
+  {
+    "id": "FRN-002",
+    "nom": "Cédéo",
+    "contact": "Service pro",
+    "email": "pro-lyon@cedeo.fr",
+    "tel": "04 78 55 66 77",
+    "categorie": "Plomberie / Sanitaire",
+    "conditions": "Comptant",
+    "score_fiabilite": 7,
+    "notes": "Pour les chantiers avec plomberie. Prix corrects."
+  },
+  {
+    "id": "FRN-003",
+    "nom": "Kiloutou Lyon 3",
+    "contact": "Agence",
+    "email": "lyon3@kiloutou.fr",
+    "tel": "04 78 99 88 77",
+    "categorie": "Location matériel",
+    "conditions": "Facturation mensuelle",
+    "score_fiabilite": 9,
+    "notes": "Mini-pelle, échafaudage, bétonnière. Toujours dispo."
+  },
+  {
+    "id": "FRN-004",
+    "nom": "Parpaing Express",
+    "contact": "Ali Mansouri",
+    "email": "ali@parpaing-express.fr",
+    "tel": "06 11 22 33 44",
+    "categorie": "Matériaux",
+    "conditions": "Paiement à la livraison",
+    "score_fiabilite": 5,
+    "notes": "Moins cher que Point P (-8%) mais retards fréquents. 2 livraisons en retard sur les 5 dernières."
+  },
+  {
+    "id": "FRN-005",
+    "nom": "Würth France",
+    "contact": "Commercial secteur",
+    "email": "lyon-pro@wurth.fr",
+    "tel": "04 78 12 00 99",
+    "categorie": "Outillage / Fixation",
+    "conditions": "30 jours",
+    "score_fiabilite": 9,
+    "notes": "Outillage et visserie. Qualité top."
+  }
+]

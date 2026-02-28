@@ -1,0 +1,42 @@
+[
+  {
+    "id": "CHT-2026-001",
+    "client": "CLI-001",
+    "projet": "Extension véranda 25m²",
+    "adresse": "23 rue Garibaldi, 69006 Lyon",
+    "statut": "À démarrer",
+    "debut_prevu": "2026-03-10",
+    "fin_prevue": "2026-04-25",
+    "equipe": ["Karim Benzarti", "Lucas Moreau"],
+    "montant": 28500,
+    "materiaux_commandes": false,
+    "permis": "Déclaration préalable déposée",
+    "notes": "Commander parpaings + IPN avant le 3 mars"
+  },
+  {
+    "id": "CHT-2026-002",
+    "client": "CLI-006",
+    "projet": "Réparation fissures parking souterrain",
+    "adresse": "30 avenue Berthelot, 69007 Lyon",
+    "statut": "À démarrer",
+    "debut_prevu": "2026-03-17",
+    "fin_prevue": "2026-03-28",
+    "equipe": ["Youssef Amrani", "Thomas Petit"],
+    "montant": 14800,
+    "materiaux_commandes": true,
+    "notes": "Résine époxy commandée chez Würth. Badge parking à récupérer lundi 16."
+  },
+  {
+    "id": "CHT-2026-003",
+    "client": "CLI-002",
+    "projet": "Ravalement façade immeuble 4 étages",
+    "adresse": "8 place Bellecour, 69002 Lyon",
+    "statut": "Planifié",
+    "debut_prevu": "2026-04-01",
+    "fin_prevue": "2026-06-15",
+    "equipe": ["Karim Benzarti", "Lucas Moreau", "Youssef Amrani", "Jean-Pierre Roux"],
+    "montant": 67000,
+    "materiaux_commandes": false,
+    "notes": "Gros chantier. Échafaudage Kiloutou à réserver. Autorisation voirie en cours. Besoin intérimaire supplémentaire."
+  }
+]

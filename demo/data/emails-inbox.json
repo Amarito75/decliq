@@ -1,0 +1,74 @@
+[
+  {
+    "id": "MSG-001",
+    "date": "2026-02-28T08:12:00",
+    "de": "david.nguyen42@outlook.fr",
+    "objet": "Demande de devis mur + portail",
+    "classification": null,
+    "lu": false,
+    "contenu": "Bonjour, suite à notre échange téléphonique de mardi, je souhaiterais recevoir un devis pour la construction d'un mur de clôture (environ 15m linéaire, hauteur 1m80) et la pose d'un portail coulissant motorisé. Terrain en pente légère. Merci de me dire quand vous pouvez passer voir. Cordialement, David Nguyen"
+  },
+  {
+    "id": "MSG-002",
+    "date": "2026-02-28T09:45:00",
+    "de": "n.dubois@mairie-caluire.fr",
+    "objet": "RE: Devis rénovation muret école",
+    "classification": null,
+    "lu": false,
+    "contenu": "Monsieur Durand, le conseil municipal se réunit le 5 mars. Votre devis sera étudié à cette occasion. Pourriez-vous nous transmettre vos attestations d'assurance décennale et RC Pro à jour ? Cordialement, Nathalie Dubois"
+  },
+  {
+    "id": "MSG-003",
+    "date": "2026-02-27T16:30:00",
+    "de": "newsletter@pointp.fr",
+    "objet": "🔥 -20% sur le ciment Portland jusqu'au 15 mars",
+    "classification": null,
+    "lu": false,
+    "contenu": "Profitez de notre offre spéciale sur le ciment Portland CEM I 52.5..."
+  },
+  {
+    "id": "MSG-004",
+    "date": "2026-02-27T14:20:00",
+    "de": "marie.lefebvre@gmail.com",
+    "objet": "Question sur la véranda",
+    "classification": null,
+    "lu": false,
+    "contenu": "Bonjour Marc, j'espère que vous allez bien. Je voulais savoir si on démarre bien le 10 mars comme prévu ? Mon voisin David Nguyen m'a dit qu'il allait vous contacter aussi pour un mur, c'est moi qui lui ai donné vos coordonnées 😊 Par ailleurs est-ce qu'il serait possible de changer les baies vitrées pour du double vitrage phonique ? Je sais que ce n'était pas prévu mais le boulevard est bruyant... Quel serait le surcoût ? Merci ! Marie"
+  },
+  {
+    "id": "MSG-005",
+    "date": "2026-02-27T11:00:00",
+    "de": "compta@cabinet-martin.fr",
+    "objet": "Variables de paie février - URGENT",
+    "classification": null,
+    "lu": false,
+    "contenu": "Bonjour Sophie, je n'ai toujours pas reçu les variables de paie pour février. J'ai besoin avant lundi 3 mars impérativement pour lancer les bulletins. Merci de m'envoyer : heures sup, absences, tickets restaurant. Cordialement, Claire Martin"
+  },
+  {
+    "id": "MSG-006",
+    "date": "2026-02-26T09:15:00",
+    "de": "ali@parpaing-express.fr",
+    "objet": "RE: Commande parpaings CHT-2026-001",
+    "classification": null,
+    "lu": true,
+    "contenu": "Bonjour Marc, on a un souci d'approvisionnement sur les parpaings 20x20x50. Je peux vous livrer que le 8 mars au lieu du 3. Ça vous va ? Ali"
+  },
+  {
+    "id": "MSG-007",
+    "date": "2026-02-26T17:45:00",
+    "de": "noreply@urssaf.fr",
+    "objet": "Rappel : Déclaration DSN février",
+    "classification": null,
+    "lu": false,
+    "contenu": "Votre déclaration DSN pour la période de février 2026 doit être transmise avant le 15 mars 2026."
+  },
+  {
+    "id": "MSG-008",
+    "date": "2026-02-25T10:30:00",
+    "de": "syndic@gir-lyon.fr",
+    "objet": "Badge parking - Résidence du Parc",
+    "classification": null,
+    "lu": true,
+    "contenu": "Monsieur Durand, le badge d'accès au parking pour votre chantier est disponible à notre agence. Merci de passer le récupérer avant le 14 mars. Horaires : 9h-12h / 14h-17h. Adresse : 15 quai Augagneur, 69003."
+  }
+]

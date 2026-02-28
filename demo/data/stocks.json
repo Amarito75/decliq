@@ -1,0 +1,55 @@
+[
+  {
+    "ref": "MAT-001",
+    "nom": "Parpaings 20x20x50",
+    "unite": "pièce",
+    "stock_actuel": 120,
+    "seuil_min": 200,
+    "besoin_chantier_CHT001": 450,
+    "fournisseur_habituel": "FRN-004",
+    "prix_unitaire": 1.85,
+    "statut": "CRITIQUE — stock insuffisant pour CHT-2026-001"
+  },
+  {
+    "ref": "MAT-002",
+    "nom": "Ciment Portland CEM I 52.5 (sac 25kg)",
+    "unite": "sac",
+    "stock_actuel": 35,
+    "seuil_min": 20,
+    "fournisseur_habituel": "FRN-001",
+    "prix_unitaire": 8.50,
+    "statut": "OK — promo -20% Point P jusqu'au 15/03"
+  },
+  {
+    "ref": "MAT-003",
+    "nom": "Sable 0/4 (tonne)",
+    "unite": "tonne",
+    "stock_actuel": 2.5,
+    "seuil_min": 3,
+    "fournisseur_habituel": "FRN-001",
+    "prix_unitaire": 45.00,
+    "statut": "BAS — commander avant chantier véranda"
+  },
+  {
+    "ref": "MAT-004",
+    "nom": "IPN 200 (6m)",
+    "unite": "pièce",
+    "stock_actuel": 0,
+    "seuil_min": 2,
+    "besoin_chantier_CHT001": 2,
+    "fournisseur_habituel": "FRN-001",
+    "prix_unitaire": 185.00,
+    "statut": "RUPTURE — nécessaire pour CHT-2026-001, à commander d'urgence"
+  },
+  {
+    "ref": "MAT-005",
+    "nom": "Résine époxy injection (kit 5L)",
+    "unite": "kit",
+    "stock_actuel": 3,
+    "seuil_min": 2,
+    "besoin_chantier_CHT002": 3,
+    "fournisseur_habituel": "FRN-005",
+    "prix_unitaire": 89.00,
+    "statut": "OK — commandé pour CHT-2026-002"
+  }
+]
